@@ -1,0 +1,322 @@
+--------- beginning of main
+04-14 10:03:15.239 11918 11957 I CameraManagerGlobal: Connecting to camera service
+04-14 10:03:15.243 11918 11957 D CameraManagerGlobal: shouldHideCamera, current packageName: org.codeaurora.snapcam
+04-14 10:03:15.243 11918 11957 I CameraManagerGlobal: extractCameraIdListLocked  info.mCameraId = 0
+04-14 10:03:15.243 11918 11957 D CameraManagerGlobal: ZH  T or F ,current packageName: org.codeaurora.snapcam
+04-14 10:03:15.243 11918 11957 D CameraManagerGlobal: shouldHideCamera, current packageName: org.codeaurora.snapcam
+04-14 10:03:15.243 11918 11957 I CameraManagerGlobal: extractCameraIdListLocked  info.mCameraId = 1
+04-14 10:03:15.243 11918 11957 D CameraManagerGlobal: ZH  T or F ,current packageName: org.codeaurora.snapcam
+04-14 10:03:15.249 11918 11937 W AudioCapabilities: Unsupported mime audio/ima-adpcm
+04-14 10:03:15.251 11918 11937 W AudioCapabilities: Unsupported mime audio/mpeg-L1
+04-14 10:03:15.251 11918 11937 W AudioCapabilities: Unsupported mime audio/mpeg-L2
+04-14 10:03:15.261 11918 11937 W VideoCapabilities: Unsupported mime video/jpeg
+04-14 10:03:15.261 11918 11937 W VideoCapabilities: Unsupported mime video/jpeg
+04-14 10:03:15.279 11918 11958 D CameraManager2: GotArray:0
+04-14 10:03:15.279 11918 11958 D CameraManager2: GotArray:1
+04-14 10:03:15.279 11918 11958 D CameraManager2: GotArray:20
+04-14 10:03:15.279 11918 11958 D CameraManager2: GotArray:21
+04-14 10:03:15.281 11918 11960 D CameraManager2: GotArray:0
+04-14 10:03:15.281 11918 11960 D CameraManager2: GotArray:1
+04-14 10:03:15.281 11918 11960 D CameraManager2: GotArray:20
+04-14 10:03:15.281 11918 11960 D CameraManager2: GotArray:21
+04-14 10:03:15.282 11918 11937 W CAM_A   : Build number (A15.0.11.0.VGWMIXM) is not a number. Ignoring version check for b/149569689.
+04-14 10:03:15.283 11918 11937 D CameraManager2: GotArray:0
+04-14 10:03:15.283 11918 11937 D CameraManager2: GotArray:1
+04-14 10:03:15.283 11918 11937 D CameraManager2: GotArray:20
+04-14 10:03:15.283 11918 11937 D CameraManager2: GotArray:21
+04-14 10:03:15.287 11918 11937 D CameraMetadataJV: mPackageName: null, mCameraId = 1
+04-14 10:03:15.288 11918 11960 D CameraManager2: GotArray:0
+04-14 10:03:15.288 11918 11960 D CameraManager2: GotArray:1
+04-14 10:03:15.288 11918 11960 D CameraManager2: GotArray:20
+04-14 10:03:15.288 11918 11960 D CameraManager2: GotArray:21
+04-14 10:03:15.293 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 1
+04-14 10:03:15.293 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 1
+04-14 10:03:15.294 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 1
+04-14 10:03:15.295 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 1
+04-14 10:03:15.295 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 1
+04-14 10:03:15.296 11918 11960 D CameraMetadataJV: mPackageName: null, mCameraId = 0
+04-14 10:03:15.296 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.296 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.296 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.296 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.296 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.296 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.297 11918 11960 D CameraManager2: GotArray:0
+04-14 10:03:15.297 11918 11960 D CameraManager2: GotArray:1
+04-14 10:03:15.297 11918 11960 D CameraManager2: GotArray:20
+04-14 10:03:15.297 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.297 11918 11960 D CameraManager2: GotArray:21
+04-14 10:03:15.297 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.299 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.303 11918 11960 D CameraManager2: GotArray:0
+04-14 10:03:15.303 11918 11960 D CameraManager2: GotArray:1
+04-14 10:03:15.303 11918 11960 D CameraManager2: GotArray:20
+04-14 10:03:15.303 11918 11960 D CameraManager2: GotArray:21
+04-14 10:03:15.304 11918 11937 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.309 11918 11966 D CameraManagerGlobal: shouldHideCamera, current packageName: org.codeaurora.snapcam
+04-14 10:03:15.310 11918 11966 D CameraManagerGlobal: shouldHideCamera, current packageName: org.codeaurora.snapcam
+04-14 10:03:15.322 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04qq-14 10:03:15.323 11918 11966 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.324 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.325 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.331 11918 11966 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.332 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.345 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.346 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.352 11918 11929 D CameraManagerGlobal: shouldHideCamera, current packageName: org.codeaurora.snapcam
+04-14 10:03:15.379 11918 11922 W eaurora.snapcam: Suspending all threads took: 7.344ms
+04-14 10:03:15.391 11918 11922 I eaurora.snapcam: Background young concurrent mark compact GC freed 1750KB AllocSpace bytes, 0(0B) LOS objects, 39% free, 3753KB/6181KB, paused 12.139ms,1.087ms total 34.711ms
+04-14 10:03:15.394 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.396 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.396 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.396 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.396 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.399 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.399 11918 11960 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 0
+04-14 10:03:15.478 11918 11918 I DeezNuts: MSG: SLIDER 1 FOCUS: 1.0E-4
+04-14 10:03:15.478 11918 11918 I ProReC  : setprogres0
+04-14 10:03:15.479 11918 11918 I DeezNuts: MSG: SLIDER 0 IDX: 0
+04-14 10:03:15.479 11918 11918 I ProReC  : setprogres_iso0
+04-14 10:03:15.480 11918 11918 I za.defcomk.prorec.cust2.RotSeek: setprogres_iso0
+04-14 10:03:15.627 11918 11918 W HWUI    : Unknown dataspace 0
+04-14 10:03:15.719 11918 11918 I eaurora.snapcam: hook_module_init libgui_unisoc_utils.so over, map size:3, library handle:0x28164a3b4d237ffd
+04-14 10:03:15.719 11918 11918 I UnisocBufferQueueHelper: Unisoc-Graphics: UnisocBufferQueueHelper create, this:0x79ba555200, size:88
+04-14 10:03:15.719 11918 11918 I eaurora.snapcam: createUnisocBufferQueueHelperFactory success, get instance 0x79ba555200
+04-14 10:03:15.719 11918 11918 I eaurora.snapcam: Unisoc-Graphics: UnisocFrameRecord create, this:0x795b613900, size:296, enable:0
+04-14 10:03:15.719 11918 11918 I eaurora.snapcam: createUnisocFrameRecordFactory success, get instance 0x795b613900
+04-14 10:03:15.756 11918 12137 D mali_gralloc: register: id=24800037528, handle=0x795b649840, importpid=11918
+04-14 10:03:15.756 11918 11918 W RenderThread: type=1400 audit(0.0:318765): avc:  denied  { read write } for  name="systemheap" dev="tmpfs" ino=1137 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:systemheap_device:s0 tclass=chr_file permissive=0 app=org.codeaurora.snapcam
+04-14 10:03:15.759 11918 12137 W libc    : Access denied finding property "persist.vendor.gpu.ionmemtrack"
+04-14 10:03:15.759 11918 12137 E mali_gralloc: initIonKernelMemtrack open device:/dev/systemheap failed, 13(Permission denied)
+04-14 10:03:15.761 11918 12137 D mali_gralloc: register: id=24800037529, handle=0x795b64a560, importpid=11918
+04-14 10:03:15.762 11918 12137 D mali_gralloc: register: id=2480003752a, handle=0x795b64a640, importpid=11918
+04-14 10:03:15.766 11918 12137 D mali_gralloc: register: id=2480003752b, handle=0x795b64a8e0, importpid=11918
+04-14 10:03:16.157 11918 11918 W DisplayEventDispatcher: Vsync time out! vsyncScheduleDelay=504ms
+04-14 10:03:16.157 11918 11918 W Choreographer: Already have a pending vsync event.  There should only be one at a time.
+04-14 10:03:16.157 11918 11918 W Choreographer: Already have a pending vsync event.  There should only be one at a time.
+04-14 10:03:16.158 11918 11918 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+04-14 10:03:16.190 11918 11918 W CAM_A   : Was already registered as ThermalStatusListener on AppStart
+04-14 10:03:16.191 11918 11934 D SensorManager: registerListenerImpl sensor = {Sensor name="Rotation Vector", vendor="Sprd Group Ltd.", version=1, type=11, maxRange=1.0, resolution=1.0E-6, power=11.27, minDelay=10000}, delayUs = 200000, latencyUs = 0, listener = hpi@444df8
+04-14 10:03:16.259 11918 11918 D CameraManager2: GotArray:0
+04-14 10:03:16.259 11918 11918 D CameraManager2: GotArray:1
+04-14 10:03:16.259 11918 11918 D CameraManager2: GotArray:20
+04-14 10:03:16.259 11918 11918 D CameraManager2: GotArray:21
+04-14 10:03:16.260 11918 11918 D CameraMetadataJV: mPackageName: org.codeaurora.snapcam, mCameraId = 1
+04-14 10:03:16.261 11918 11935 W ProtoDataStoreFlagStore: Unable to retrieve flag snapshot for com.google.android.libraries.consentverifier#org.codeaurora.snapcam, using defaults.
+04-14 10:03:16.327 11918 11921 W eaurora.snapcam: Missing inline cache for qzd mdq.c()
+04-14 10:03:16.327 11918 11921 W eaurora.snapcam: Missing inline cache for qzd mdq.c()
+04-14 10:03:16.327 11918 11921 W eaurora.snapcam: Missing inline cache for qzd mdq.c()
+04-14 10:03:16.615 11918 11957 W System  : Attempt to load writable file: /data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so. This will throw on a future Android version
+04-14 10:03:16.612 11918 11918 W GcaGeneric-2: type=1400 audit(0.0:318766): avc:  granted  { execute } for  path="/data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so" dev="dm-52" ino=1666403 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c239,c256,c512,c768 tclass=file app=org.codeaurora.snapcam
+04-14 10:03:16.637 11918 11957 D nativeloader: Load /data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so using class loader ns clns-7 (caller=/data/app/~~je3okbw9bx8Zl8K9wI-HtQ==/org.codeaurora.snapcam-9D13WMhwJHUAuC2wCT_W1w==/base.apk): ok
+04-14 10:03:16.667 11918 11957 D nativeloader: Load /data/app/~~je3okbw9bx8Zl8K9wI-HtQ==/org.codeaurora.snapcam-9D13WMhwJHUAuC2wCT_W1w==/lib/arm64/libpairipcoreX.so using class loader ns clns-7 (caller=/data/app/~~je3okbw9bx8Zl8K9wI-HtQ==/org.codeaurora.snapcam-9D13WMhwJHUAuC2wCT_W1w==/base.apk!classes2.dex): ok
+04-14 10:03:16.668 11918 11918 W CriticalPath: type=1400 audit(0.0:318767): avc:  granted  { execute } for  path="/data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so" dev="dm-52" ino=1666403 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c239,c256,c512,c768 tclass=file app=org.codeaurora.snapcam
+04-14 10:03:16.668 11918 11918 W GcaGeneric-2: type=1400 audit(0.0:318768): avc:  granted  { execute } for  path="/data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so" dev="dm-52" ino=1666403 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c239,c256,c512,c768 tclass=file app=org.codeaurora.snapcam
+04-14 10:03:16.668 11918 11918 W eaurora.snapcam: type=1400 audit(0.0:318769): avc:  granted  { execute } for  path="/data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so" dev="dm-52" ino=1666403 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c239,c256,c512,c768 tclass=file app=org.codeaurora.snapcam
+04-14 10:03:16.684 11918 11918 D CameraManager2: GotArray:0
+04-14 10:03:16.684 11918 11918 D CameraManager2: GotArray:1
+04-14 10:03:16.684 11918 11918 D CameraManager2: GotArray:20
+04-14 10:03:16.684 11918 11918 D CameraManager2: GotArray:21
+04-14 10:03:16.686 11918 11918 D CameraManager2: GotArray:0
+04-14 10:03:16.687 11918 11918 D CameraManager2: GotArray:1
+04-14 10:03:16.687 11918 11918 D CameraManager2: GotArray:20
+04-14 10:03:16.687 11918 11918 D CameraManager2: GotArray:21
+04-14 10:03:16.688 11918 11918 E libgcam : [gcam.cc:268]: Create: static_metadata_list can not be empty.
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: CameraActivityController failed!
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at eat.get(Unknown Source:493)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at enl.a(Unknown Source:3)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at dsd.get(Unknown Source:30)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at dvd.get(Unknown Source:175)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at kbj.get(Unknown Source:73)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at eus.get(Unknown Source:335)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at pyq.get(Unknown Source:4)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at btj.d(Unknown Source:15)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at btj.a(Unknown Source:0)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at cak.run(Unknown Source:2)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at bwx.run(Unknown Source:82)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at android.os.Handler.handleCallback(Handler.java:959)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at android.os.Looper.loopOnce(Looper.java:232)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at android.os.Looper.loop(Looper.java:317)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at android.app.ActivityThread.main(ActivityThread.java:8849)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at java.lang.reflect.Method.invoke(Native Method)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:681)
+04-14 10:03:16.689 11918 11918 W CAM_ActivityUiStartup: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:902)
+04-14 10:03:16.691 11918 11960 E CAM_A   : HalideRuntime.checkGcamHalideRuntime -> Failed
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:0
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:1
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:20
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:21
+04-14 10:03:16.692 11918 11918 W LensSdkParamsReader: Unable to find agsa package: com.google.android.googlequicksearchbox
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:0
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:1
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:20
+04-14 10:03:16.692 11918 11960 D CameraManager2: GotArray:21
+04-14 10:03:16.692 11918 11960 E libgcam : [gcam.cc:268]: Create: static_metadata_list can not be empty.
+--------- beginning of system
+04-14 10:03:16.694 11918 12163 E ActivityThread: Failed to find provider info for com.google.android.googlequicksearchbox.GsaPublicContentProvider
+04-14 10:03:16.694 11918 12163 E ActivityThread: Failed to find provider info for com.google.android.googlequicksearchbox.GsaPublicContentProvider
+04-14 10:03:16.696 11918 11958 E CAM_A   : HalideRuntime.checkGcamHalideRuntime -> Failed
+04-14 10:03:16.696 11918 11958 D CameraManager2: GotArray:0
+04-14 10:03:16.696 11918 11958 D CameraManager2: GotArray:1
+04-14 10:03:16.696 11918 11958 D CameraManager2: GotArray:20
+04-14 10:03:16.696 11918 11958 D CameraManager2: GotArray:21
+04-14 10:03:16.698 11918 11958 D CameraManager2: GotArray:0
+04-14 10:03:16.698 11918 11958 D CameraManager2: GotArray:1
+04-14 10:03:16.698 11918 11958 D CameraManager2: GotArray:20
+04-14 10:03:16.698 11918 11958 D CameraManager2: GotArray:21
+04-14 10:03:16.698 11918 11958 E libgcam : [gcam.cc:268]: Create: static_metadata_list can not be empty.
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: Interactivity failed!
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at eat.get(Unknown Source:493)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at enl.a(Unknown Source:3)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at dsd.get(Unknown Source:30)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at dvd.get(Unknown Source:175)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at kbj.get(Unknown Source:73)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at eus.get(Unknown Source:335)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at pyq.get(Unknown Source:4)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at btj.d(Unknown Source:15)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at btj.a(Unknown Source:0)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at cak.run(Unknown Source:2)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at bwx.run(Unknown Source:82)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at android.os.Handler.handleCallback(Handler.java:959)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at android.os.Looper.loopOnce(Looper.java:232)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at android.os.Looper.loop(Looper.java:317)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at android.app.ActivityThread.main(ActivityThread.java:8849)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at java.lang.reflect.Method.invoke(Native Method)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:681)
+04-14 10:03:16.700 11918 12164 W CAM_ActivityUiStartup: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:902)
+--------- beginning of crash
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: FATAL EXCEPTION: 00UiWorker
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: Process: org.codeaurora.snapcam, PID: 11918
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: java.lang.RuntimeException: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at lbg.run(Unknown Source:26)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:1564)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at lab.run(Unknown Source:5)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: Caused by: java.util.concurrent.ExecutionException: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.util.concurrent.FutureTask.get(FutureTask.java:191)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at phe.get(Unknown Source:4)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at lbg.run(Unknown Source:15)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	... 4 more
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at eat.get(Unknown Source:493)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at enl.a(Unknown Source:3)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at dsd.get(Unknown Source:30)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at dvd.get(Unknown Source:175)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at kbj.get(Unknown Source:73)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at eus.get(Unknown Source:335)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at pyq.get(Unknown Source:4)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at ewe.run(Unknown Source:60)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at dks.run(Unknown Source:13)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at bvr.run(Unknown Source:58)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:520)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:348)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at lbh.run(Unknown Source:2)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	at lbg.run(Unknown Source:0)
+04-14 10:03:16.704 11918 11958 E AndroidRuntime: 	... 4 more
+04-14 10:03:16.782 11918 11922 W eaurora.snapcam: Suspending all threads took: 9.529ms
+04-14 10:03:16.788 11918 11918 W GcaLowPrio: type=1400 audit(0.0:318775): avc:  granted  { execute } for  path="/data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so" dev="dm-52" ino=1666403 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c239,c256,c512,c768 tclass=file app=org.codeaurora.snapcam
+04-14 10:03:16.788 11918 11918 W GcaGeneric-1: type=1400 audit(0.0:318776): avc:  granted  { execute } for  path="/data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so" dev="dm-52" ino=1666403 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c239,c256,c512,c768 tclass=file app=org.codeaurora.snapcam
+04-14 10:03:16.804 11918 11922 I eaurora.snapcam: Background young concurrent mark compact GC freed 4164KB AllocSpace bytes, 4(208KB) LOS objects, 24% free, 7257KB/9599KB, paused 11.967ms,1.672ms total 87.115ms
+04-14 10:03:16.809 11918 11918 D AndroidRuntime: Shutting down VM
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: FATAL EXCEPTION: main
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: Process: org.codeaurora.snapcam, PID: 11918
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: java.lang.RuntimeException: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at kqn.run(Unknown Source:9)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at bwx.run(Unknown Source:82)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:959)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:232)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:317)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:8849)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:681)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:902)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at eat.get(Unknown Source:493)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at enl.a(Unknown Source:3)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at dsd.get(Unknown Source:30)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at dvd.get(Unknown Source:175)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at kbj.get(Unknown Source:73)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at eus.get(Unknown Source:335)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at pyr.get(Unknown Source:13)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at pyq.get(Unknown Source:4)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at btj.d(Unknown Source:15)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at btj.a(Unknown Source:0)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	at cak.run(Unknown Source:2)
+04-14 10:03:16.810 11918 11918 E AndroidRuntime: 	... 9 more
+04-14 10:03:16.816 11918 11918 W GcaGeneric-2: type=1400 audit(0.0:318777): avc:  granted  { execute } for  path="/data/user/0/org.codeaurora.snapcam/files/libpatched_jni.so" dev="dm-52" ino=1666403 scontext=u:r:untrusted_app_29:s0:c239,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c239,c256,c512,c768 tclass=file app=org.codeaurora.snapcam
+04-14 10:03:16.900 11918 11924 W eaurora.snapcam: ApkAssets: Deleting an ApkAssets object '<empty> and /system/framework/framework-res.apk' with 1 weak references
+04-14 10:03:17.163 11918 11958 E CAM_A   : Uncaught exception in background thread
+04-14 10:03:17.163 11918 11958 E CAM_A   : java.lang.RuntimeException: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at lbg.run(Unknown Source:26)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.lang.Thread.run(Thread.java:1564)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at lab.run(Unknown Source:5)
+04-14 10:03:17.163 11918 11958 E CAM_A   : Caused by: java.util.concurrent.ExecutionException: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.util.concurrent.FutureTask.get(FutureTask.java:191)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at phe.get(Unknown Source:4)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at lbg.run(Unknown Source:15)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	... 4 more
+04-14 10:03:17.163 11918 11958 E CAM_A   : Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at eat.get(Unknown Source:493)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at pyr.get(Unknown Source:13)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at enl.a(Unknown Source:3)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at dsd.get(Unknown Source:30)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at pyr.get(Unknown Source:13)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at dvd.get(Unknown Source:175)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at pyr.get(Unknown Source:13)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at kbj.get(Unknown Source:73)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at pyr.get(Unknown Source:13)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at eus.get(Unknown Source:335)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at pyr.get(Unknown Source:13)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at pyq.get(Unknown Source:4)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at pyr.get(Unknown Source:13)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at ewe.run(Unknown Source:60)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at dks.run(Unknown Source:13)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at bvr.run(Unknown Source:58)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:520)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:348)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at lbh.run(Unknown Source:2)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	at lbg.run(Unknown Source:0)
+04-14 10:03:17.163 11918 11958 E CAM_A   : 	... 4 more
+04-14 10:03:17.164 11918 11958 E CAM_A   : Uncaught exception in background thread Thread[00UiWorker,5,main]
+04-14 10:03:17.164 11918 11958 E CAM_A   : java.lang.RuntimeException: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at lbg.run(Unknown Source:26)
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at java.lang.Thread.run(Thread.java:1564)
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at lab.run(Unknown Source:5)
+04-14 10:03:17.164 11918 11958 E CAM_A   : Caused by: java.util.concurrent.ExecutionException: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.google.googlex.gcam.Gcam.f()' on a null object reference
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at java.util.concurrent.FutureTask.get(FutureTask.java:191)
+04-14 10:03:17.164 11918 11958 E CAM_A   : 	at 
